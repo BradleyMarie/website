@@ -1,2 +1,2 @@
 # bradleymarie.github.io
-Source code to bradweinberger.com
+Source code for [bradweinberger.com](https://bradweinberger.com)
