@@ -36,7 +36,8 @@ Wikipedia. I also wrote my own <a href="https://github.com/BradleyMarie/L5c">com
 
 <p>Outside of work, I enjoy spending my free time skiing, hiking, traveling,
 watching movies, and working on my 
-<a href="https://github.com/BradleyMarie/Iris">ray tracer</a>.</p>
+<a href="https://github.com/BradleyMarie/iris">ray tracer</a> /
+<a href="https://github.com/BradleyMarie/webgba">GameBoy Advance emulator</a>.</p>
 
 <h2>Languages</h2>
 
@@ -62,8 +63,9 @@ watching movies, and working on my
 	<li>SIMD Optimization</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Side Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/BradleyMarie/Iris">Iris</a></li>
+	<li><a href="https://github.com/BradleyMarie/iris">Iris</a></li>
+	<li><a href="https://github.com/BradleyMarie/webgba">WebGBA</a></li>
 </ul>
